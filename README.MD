@@ -20,11 +20,16 @@ Flutter My Lib:
   * [Easy queue][easy_queue_link]
   * [Supper printer][supper_printer_link]
 
-If you find my contributions useful for your work, please donate to us:  
+If you find my contributions useful for your work, please donate to us: 
+
 Bank Name: TIENPHONG COMMERCIAL JOINT STOCK BANK 
+
 Bank SWIFT: TPBVVNVXXXX
+
 Bank Account Number: 84501021998 
+
 Bank Account Name: TRAN VAN HIEU 
+
 Content: Donate [package_name] Flutter.
   
 
