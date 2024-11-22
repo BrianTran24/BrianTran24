@@ -35,7 +35,7 @@ Content: Donate [package_name] Flutter.
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BrianTV98/count.svg" />
+  <img src="https://profile-counter.glitch.me/BrianTV24/count.svg" />
 </p>
 
  
