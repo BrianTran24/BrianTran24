@@ -2,26 +2,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=BrianTran24&count_private=true&show_icons=true&theme=radical)
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianTran24&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrianTran24&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianTran24&layout=compact&theme=radical&langs_count=8)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrianTran24&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 💬 How to reach me: 
 * email/skype:tranhieuglpk@gmail.com
 * facebook: [Tran Van Hieu][facebook_link] 
